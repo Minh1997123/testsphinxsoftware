@@ -13,4 +13,3 @@ function test(x) {
 for (let index = 1; index <= 100; index++) {
   console.log(test(index));
 }
-console.log("SPHINX SOFTWARE".toLowerCase());
